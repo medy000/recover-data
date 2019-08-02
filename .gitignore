@@ -1,18 +1,190 @@
-# Build and Release Folders
-bin-debug/
-bin-release/
-[Oo]bj/
-[Bb]in/
-
-# Other files and folders
-.settings/
-
-# Executables
-*.swf
-*.air
-*.ipa
-*.apk
-
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
+{  
+   "status":true,
+   "ac_link":"https://play.google.com/store/apps/developer?id=DEVappy",
+   "privacy_link":"https://sites.google.com/view/lyricand-development/accueil//",
+   "data":[  
+      {  
+         "app_id":"1100",
+         "application_name":"Photo Poses - Wedding, Couple, Boys and Girls",
+         "application_link":"https://play.google.com/store/apps/details?id=com.mixedapps.weddingphoto",
+         "icon":"",
+         "banner":"",
+         "package_name":"com.mixedapps.weddingphoto",
+         "one_app_id":"",
+         "api_key":"",
+         "privacy_link":"",
+         "is_approve":"1",
+         "account_id":"9",
+         "icon_link":"https://i.imgur.com/GQasPds.png",
+         "desc":"",
+         "interstitial":"",
+         "native":"",
+         "account_name":"Other",
+         "account_link":"",
+         "status":"inactive"
+      },
+      {  
+         "app_id":"1085",
+         "application_name":"HD Wallpaper and Background (4K)",
+         "application_link":"https://play.google.com/store/apps/details?id=com.mixedapp.hdwallpaper",
+         "icon":"",
+         "banner":"",
+         "package_name":"com.mixedapp.hdwallpaper",
+         "one_app_id":"",
+         "api_key":"",
+         "privacy_link":"",
+         "is_approve":"1",
+         "account_id":"9",
+         "icon_link":"https://i.imgur.com/TX3X9Tx.png",
+         "desc":"",
+         "interstitial":"",
+         "native":"",
+         "account_name":"Other",
+         "account_link":"",
+         "status":"inactive"
+      },
+      {  
+         "app_id":"1053",
+         "application_name":"Gold Clock Live Wallpaper",
+         "application_link":"https://play.google.com/store/apps/details?id=com.mixedapp.livegoldclovk",
+         "icon":"",
+         "banner":"",
+         "package_name":"com.mixedapp.livegoldclovk",
+         "one_app_id":"",
+         "api_key":"",
+         "privacy_link":"https://mixedupapp.blogspot.com/",
+         "is_approve":"1",
+         "account_id":"31",
+         "icon_link":"https://i.imgur.com/kcBRaNW.png",
+         "desc":"",
+         "interstitial":"",
+         "native":"",
+         "account_name":"Mixed up apps",
+         "account_link":"https://play.google.com/store/apps/developer?id=Mixed+up+apps",
+         "status":"active"
+      },
+       {  
+         "app_id":"1100",
+         "application_name":"Photo To Video Maker With Music",
+         "application_link":"https://play.google.com/store/apps/details?id=com.mixedup.videostatusmaker",
+         "icon":"",
+         "banner":"",
+         "package_name":"com.mixedup.videostatusmaker",
+         "one_app_id":"",
+         "api_key":"",
+         "privacy_link":"",
+         "is_approve":"1",
+         "account_id":"9",
+         "icon_link":"https://i.imgur.com/T30FcZD.png",
+         "desc":"",
+         "interstitial":"",
+         "native":"",
+         "account_name":"Other",
+         "account_link":"",
+         "status":"inactive"
+      },
+       {  
+         "app_id":"1100",
+         "application_name":"My Name Art : Create your Name Photo",
+         "application_link":"https://play.google.com/store/apps/details?id=com.digitech.nameart",
+         "icon":"",
+         "banner":"",
+         "package_name":"com.digitech.nameart",
+         "one_app_id":"",
+         "api_key":"",
+         "privacy_link":"",
+         "is_approve":"1",
+         "account_id":"9",
+         "icon_link":"https://i.imgur.com/PQzhs6u.png",
+         "desc":"",
+         "interstitial":"",
+         "native":"",
+         "account_name":"Other",
+         "account_link":"",
+         "status":"inactive"
+      },
+       {  
+         "app_id":"1100",
+         "application_name":"Video Status (Lyrical Video Songs)",
+         "application_link":"https://play.google.com/store/apps/details?id=com.digitechinfo.videostatus8",
+         "icon":"",
+         "banner":"",
+         "package_name":"com.digitechinfo.videostatus8",
+         "one_app_id":"",
+         "api_key":"",
+         "privacy_link":"",
+         "is_approve":"1",
+         "account_id":"9",
+         "icon_link":"https://i.imgur.com/XUrcWfG.png",
+         "desc":"",
+         "interstitial":"",
+         "native":"",
+         "account_name":"Other",
+         "account_link":"",
+         "status":"inactive"
+      },
+      {  
+         "app_id":"1100",
+         "application_name":"Photo Collage",
+         "application_link":"https://play.google.com/store/apps/details?id=com.digitech.solutionphoto10",
+         "icon":"",
+         "banner":"",
+         "package_name":"com.digitech.solutionphoto10",
+         "one_app_id":"",
+         "api_key":"",
+         "privacy_link":"",
+         "is_approve":"1",
+         "account_id":"9",
+         "icon_link":"https://i.imgur.com/H6xpQmJ.png",
+         "desc":"",
+         "interstitial":"",
+         "native":"",
+         "account_name":"Other",
+         "account_link":"",
+         "status":"inactive"
+      },
+       
+      
+       {  
+         "app_id":"1100",
+         "application_name":"Recover Deleted Photos, Videos, Contacts and Files",
+         "application_link":"https://play.google.com/store/apps/details?id=com.digitechinfio.deletephotorecovery",
+         "icon":"",
+         "banner":"",
+         "package_name":"com.digitechinfio.deletephotorecovery",
+         "one_app_id":"",
+         "api_key":"",
+         "privacy_link":"",
+         "is_approve":"1",
+         "account_id":"9",
+         "icon_link":"https://i.imgur.com/0HDM7zC.png",
+         "desc":"",
+         "interstitial":"",
+         "native":"",
+         "account_name":"Other",
+         "account_link":"",
+         "status":"inactive"
+      },
+      {  
+         "app_id":"1100",
+         "application_name":"Weather Live : Forecast & Radar",
+         "application_link":"https://play.google.com/store/apps/details?id=com.mixedup.liveweatherapp",
+         "icon":"",
+         "banner":"",
+         "package_name":"com.mixedup.liveweatherapp",
+         "one_app_id":"",
+         "api_key":"",
+         "privacy_link":"",
+         "is_approve":"1",
+         "account_id":"9",
+         "icon_link":"https://imgur.com/PwuUACS.png",
+         "desc":"",
+         "interstitial":"",
+         "native":"",
+         "account_name":"Other",
+         "account_link":"",
+         "status":"inactive"
+      }
+      
+       ]
+}
